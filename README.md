@@ -1,6 +1,6 @@
 ### Technical Challenge 4: CSS Layouts
 
-## Deadline: February 14, 2025
+## Deadline: February 14, 2025 by 10am
 
 ---
 
