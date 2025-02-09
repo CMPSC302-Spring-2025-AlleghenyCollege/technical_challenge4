@@ -1,0 +1,15 @@
+/* ...reset or minimal styles... */
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: content-box; 
+}
+
+/* ...placeholder for flex layout... */
+
+.fixed-container {
+  width: 800px; 
+  margin: 0 auto;
+  border: 2px solid #333;
+  padding: 1rem;
+}
